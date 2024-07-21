@@ -17,10 +17,6 @@ pip3 install pwntools
 pip3 install ropgadget
 apt install -y libcapstone-dev
 
-# pwndbg 설치 및 설정
-git clone https://github.com/pwndbg/pwndbg
-./pwndbg/setup.sh
-
 # Terminator 설치
 apt install terminator
 
